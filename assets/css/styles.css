@@ -680,3 +680,11 @@ a.dotted-link:hover {
   width: 17%;
   height: auto;
 }
+
+.github h5 {
+  padding-bottom: 1%;
+}
+
+.github div {
+  padding-bottom: 2%;
+}
