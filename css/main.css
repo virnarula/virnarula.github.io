@@ -1,17 +1,19 @@
+#header {
+  padding-top: 4%;
+  padding-bottom: 3%;
+  background-color: azure;
+}
+
+#profilePhoto {
+  border-radius: 50%;
+}
+
 body {
   text-align: center;
 }
 
 a {
   color: black;
-}
-
-#links {
-  margin-top: 23%;
-}
-
-#profile {
-  margin-top: 10%;
 }
 
 #portrait {
