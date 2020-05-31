@@ -1,12 +1,24 @@
 #header {
   padding-top: 4%;
-  padding-bottom: 3%;
+  padding-bottom: 1%;
   background-color: azure;
 }
 
 #profilePhoto {
-  border-radius: 50%;
+  border-radius: 25%;
+  height: 90%;
+  width: auto;
 }
+
+#header p {
+  font-size: 14pt;
+}
+
+#cards {
+  padding-top: 1%;
+}
+
+
 
 body {
   text-align: center;
@@ -14,9 +26,4 @@ body {
 
 a {
   color: black;
-}
-
-#portrait {
-  border-radius: 100%;
-  padding-bottom: 2%;
 }
