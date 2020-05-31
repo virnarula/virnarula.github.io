@@ -672,3 +672,11 @@ a.dotted-link:hover {
     max-width: inherit;
   }
 }
+
+
+/* Additions */
+#profilePhoto {
+  border-radius: 25%;
+  width: 17%;
+  height: auto;
+}
