@@ -210,72 +210,72 @@ a.dotted-link:hover {
 
 /* About Section */
 /* Latest Section */
-.latest .item {
+.projects .item {
   margin-bottom: 30px;
 }
 
-.latest .item .title {
+.projects .item .title {
   font-size: 18px;
   margin-top: 0;
 }
 
-.latest .item .title .label {
+.projects .item .title .label {
   margin-left: 5px;
   font-size: 12px;
 }
 
-.latest .item .title a {
+.projects .item .title a {
   color: #778492;
 }
 
-.latest .item .title a:hover {
+.projects .item .title a:hover {
   color: #5f6b77;
 }
 
-.latest .item .project-image:hover {
+.projects .item .project-image:hover {
   -webkit-opacity: 0.8;
   -moz-opacity: 0.8;
   opacity: 0.8;
 }
 
-.latest .divider {
+.projects .divider {
   margin-bottom: 60px;
 }
 
-.latest .featured {
+.projects .featured {
   margin-bottom: 60px;
 }
 
-.latest .featured .title {
+.projects .featured .title {
   font-size: 20px;
   margin-bottom: 5px;
   font-size: 20px;
 }
 
-.latest .featured .summary {
+.projects .featured .summary {
   margin-bottom: 30px;
   color: #778492;
 }
 
-.latest .featured img {
+.projects .featured img {
   margin-bottom: 30px;
 }
 
-.latest .featured .desc {
+.projects .featured .desc {
   margin-bottom: 30px;
 }
 
-.latest .has-ribbon {
+.projects .has-ribbon {
   position: relative;
   display: inline-block;
 }
 
-.latest .has-ribbon .text {
+.projects .has-ribbon .text {
   background: #3AAA64;
   color: #fff;
 }
 
-.latest .has-ribbon .ribbon {
+.projects .has-ribbon .ribbon {
   position: absolute;
   top: -4px;
   right: -4px;
@@ -284,7 +284,7 @@ a.dotted-link:hover {
   overflow: hidden;
 }
 
-.latest .has-ribbon .ribbon .text {
+.projects .has-ribbon .ribbon .text {
   font-family: 'Montserrat', sans-serif;
   position: relative;
   left: -8px;
@@ -303,7 +303,7 @@ a.dotted-link:hover {
   -o-transform: rotate(45deg) translate3d(0, 0, 0);
 }
 
-.latest .has-ribbon .ribbon .text:before, .latest .has-ribbon .ribbon .text:after {
+.projects .has-ribbon .ribbon .text:before, .projects .has-ribbon .ribbon .text:after {
   content: '';
   position: absolute;
   bottom: -5px;
@@ -312,31 +312,31 @@ a.dotted-link:hover {
   border-right: 5px solid transparent;
 }
 
-.latest .has-ribbon .ribbon .text:before {
+.projects .has-ribbon .ribbon .text:before {
   left: 0;
 }
 
-.latest .has-ribbon .ribbon .text:after {
+.projects .has-ribbon .ribbon .text:after {
   right: 0;
 }
 
-/* Projects Section */
-.projects .item {
+/* involvement Section */
+.involvement .item {
   margin-bottom: 30px;
 }
 
-.projects .item .title {
+.involvement .item .title {
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
 }
 
-.projects .item .title a {
+.involvement .item .title a {
   color: #778492;
 }
 
-.projects .item .title a:hover {
+.involvement .item .title a:hover {
   color: #5f6b77;
 }
 
